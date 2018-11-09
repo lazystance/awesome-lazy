@@ -14,6 +14,9 @@
 최근 변경되었거나 추가된 파일을 모아서 보여줍니다. 물론 검색도 가능합니다.
 [Fresh in AppStore](https://itunes.apple.com/ca/app/fresh/id406351403?mt=12)
 
+## [Shortcat](https://shortcatapp.com/)
+
+키보드 위에 있는 손을 마우스까지 움직여야 하는 수고로움을 줄여줍니다.
 
 # Web Page
 
