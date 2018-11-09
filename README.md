@@ -22,6 +22,10 @@
 
 키보드/마우스 움직인 양을 측정해줍니다. 누가 나한테 일을 넘기려 한다면, 조용히 카운트를 보여주면서 바쁜 척합시다.
 
+## [Clipy](https://github.com/Clipy/Clipy)
+
+Copy and Paste의 효율을 극대화 시켜줍니다. BTT와 함깨라면 금상첨화!
+
 # Web Page
 
 ## [awesome lazy list](https://github.com/lazystance/awesome-lazy)
