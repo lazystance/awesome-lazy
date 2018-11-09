@@ -18,6 +18,10 @@
 
 키보드 위에 있는 손을 마우스까지 움직여야 하는 수고로움을 줄여줍니다.
 
+## [OctoMouse](https://konsomejona.github.io/OctoMouse)
+
+키보드/마우스 움직인 양을 측정해줍니다. 누가 나한테 일을 넘기려 한다면, 조용히 카운트를 보여주면서 바쁜 척합시다.
+
 # Web Page
 
 ## [awesome lazy list](https://github.com/lazystance/awesome-lazy)
